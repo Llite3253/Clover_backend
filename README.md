@@ -28,6 +28,9 @@
 # ERD
 <img width="280" height="553" alt="Image" src="https://github.com/user-attachments/assets/1ca31278-99f1-406e-8fa8-aa33f2ec004b" />
 
+# 시스템 아키텍처 다이어그램
+<img width="597" height="521" alt="Image" src="https://github.com/user-attachments/assets/6cc76d3b-5485-456b-b012-deae64d3a0ef" />
+
 # 시연 영상
 <p align="center">
     <img src="https://github.com/user-attachments/assets/d3e2a6c1-eb1f-41c2-9a74-725a54ca6dc5">
