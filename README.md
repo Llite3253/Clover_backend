@@ -26,5 +26,5 @@
 + ##### 이미지 업로드 시 불필요한 파일 자동 삭제로 서버 디스크 공간 절약
 
 <p align="center">
-    <img src="https://github.com/Llite3253/Clover_backend/issues/2#issue-3457559335">
+    <img src="https://github.com/user-attachments/assets/d3e2a6c1-eb1f-41c2-9a74-725a54ca6dc5">
 </p>
