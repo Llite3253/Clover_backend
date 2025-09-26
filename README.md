@@ -24,3 +24,5 @@
 # 🎯 성능 개선
 + ##### 게시판 및 거래 내역 조회 시 시간 역순 정렬 + 페이징 처리로 응답 성능 최적화
 + ##### 이미지 업로드 시 불필요한 파일 자동 삭제로 서버 디스크 공간 절약
+
+<img width="80%" src="[{이미지 경로}](https://github.com/user-attachments/assets/33cf8dbf-fe0d-43b7-ae13-d78dd1efd324)"/>
