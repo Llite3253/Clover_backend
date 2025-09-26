@@ -26,7 +26,7 @@
 + ##### 이미지 업로드 시 불필요한 파일 자동 삭제로 서버 디스크 공간 절약
 
 # ERD
-<img width="750" height="1106" alt="Image" src="https://github.com/user-attachments/assets/1ca31278-99f1-406e-8fa8-aa33f2ec004b" />
+<img width="280" height="553" alt="Image" src="https://github.com/user-attachments/assets/1ca31278-99f1-406e-8fa8-aa33f2ec004b" />
 
 # 시연 영상
 <p align="center">
