@@ -25,4 +25,4 @@
 + ##### 게시판 및 거래 내역 조회 시 시간 역순 정렬 + 페이징 처리로 응답 성능 최적화
 + ##### 이미지 업로드 시 불필요한 파일 자동 삭제로 서버 디스크 공간 절약
 
-[![시연 영상](https://img.youtube.com/vi/영상ID/0.jpg)](https://github.com/Llite3253/Clover_backend/issues/1#issue-3457514172)
+[[![시연 영상](https://img.youtube.com/vi/영상ID/0.jpg)](https://github.com/Llite3253/Clover_backend/issues/1#issue-3457514172)](https://github.com/Llite3253/Clover_backend/issues/2#issue-3457559335)
